@@ -10,14 +10,14 @@
 
   <p align="center">
     Finance Application</br>   
-    <a href="https://github.com/XuanTruongPham03/finance_app/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/VinaStock/.github/blob/main/profile/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/XuanTruongPham03/finance_app">View Demo</a>
+    <a href="">View Demo</a>
     ·
-    <a href="https://github.com/XuanTruongPham03/finance_app/issues">Report Bug</a>
+    <a href="">Report Bug</a>
     ·
-    <a href="https://github.com/XuanTruongPham03/finance_app/issues">Request Feature</a>
+    <a href="">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 ## About
 <a name="about"></a>
 
-_For more details, please refer to the [Documentation](https://github.com/XuanTruongPham03/finance_app/main/README.md)_
+_For more details, please refer to the [Documentation](https://github.com/VinaStock/.github/blob/main/profile/README.md)_
 ### Built with
 <a name="built-with"></a>
 
