@@ -81,6 +81,9 @@ _For more details, please refer to the [Documentation](https://github.com/VinaSt
   <a href="#top">Back to Top</a>
 </div>
 
+<!-- INSTALLATION -->
+## Installation
+<a name="installation"></a>
 
 <div align="right">
   <a href="#top">Back to Top</a>
