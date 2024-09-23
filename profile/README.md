@@ -81,17 +81,6 @@ _For more details, please refer to the [Documentation](https://github.com/VinaSt
   <a href="#top">Back to Top</a>
 </div>
 
-<!-- INSTALLATION -->
-## Installation
-<a name="installation"></a>
-To install and run the application on your local machine, follow these steps:
-
-1. Clone the repository:
-```shell
-git clone https://github.com/XuanTruongPham03/finance_app.git
-```
-2. Install all necessary packages and dependencies for the application:
-
 
 <div align="right">
   <a href="#top">Back to Top</a>
