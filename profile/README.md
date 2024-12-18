@@ -2,9 +2,6 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
 
 <h1 align="center">Finance Website</h1>
 
