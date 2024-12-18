@@ -7,7 +7,7 @@
 
   <p align="center">
     Finance Application</br>   
-    <a href="https://docs.google.com/document/d/1gTC8if7FSbgGcp5MW-3xA9Y17tc9o0ip/edit#heading=h.3q5sasy">Report</a>
+    <a href="https://drive.google.com/file/d/1uWGSj9Mf5rGxcHrYysBrOpPB8_D7CrlS/view?usp=sharing">Report PDF</a>
   </p>
 </div>
 
