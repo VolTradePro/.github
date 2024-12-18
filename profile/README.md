@@ -10,14 +10,7 @@
 
   <p align="center">
     Finance Application</br>   
-    <a href="https://github.com/VinaStock/.github/blob/main/profile/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="">View Demo</a>
-    ·
     <a href="https://docs.google.com/document/d/1gTC8if7FSbgGcp5MW-3xA9Y17tc9o0ip/edit#heading=h.3q5sasy">Report</a>
-    ·
-    <a href="">Request Feature</a>
   </p>
 </div>
 
